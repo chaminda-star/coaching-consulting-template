@@ -1,0 +1,1 @@
+DELETE FROM public.seo_settings; DELETE FROM public.seo_admin;

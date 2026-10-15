@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Elena Hart monogram">
+  <defs>
+    <linearGradient id="eh-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2a1d15"/>
+      <stop offset="1" stop-color="#120c09"/>
+    </linearGradient>
+    <linearGradient id="eh-gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f0d6b4"/>
+      <stop offset="0.55" stop-color="#c9946a"/>
+      <stop offset="1" stop-color="#a9714a"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="15" fill="url(#eh-bg)"/>
+  <rect x="4.5" y="4.5" width="55" height="55" rx="11.5" fill="none" stroke="url(#eh-gold)" stroke-opacity="0.5" stroke-width="1"/>
+  <g fill="url(#eh-gold)">
+    <rect x="19" y="17" width="6" height="30"/>
+    <rect x="39" y="17" width="6" height="30"/>
+    <rect x="25" y="29.5" width="14" height="5"/>
+    <rect x="15.5" y="17" width="13" height="3"/>
+    <rect x="15.5" y="44" width="13" height="3"/>
+    <rect x="35.5" y="17" width="13" height="3"/>
+    <rect x="35.5" y="44" width="13" height="3"/>
+  </g>
+</svg>
